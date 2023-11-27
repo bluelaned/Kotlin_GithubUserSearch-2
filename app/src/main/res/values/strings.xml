@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Github User Search</string>
+    <string name="searchbar_hint">Masukkan kata</string>
+    <string name="settings">Setting</string>
+    <string name="testing">Hallo world</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="follower_fragment">Follower Fragment</string>
+    <string name="following_fragment">Following Fragment</string>
+    <string name="tv_name">\nNama User</string>
+    <string name="tv_username">username</string>
+    <string name="bluelaned">\@bluelaned</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="username">USERNAME</string>
+    <string name="full_name">FULL NAME</string>
+    <string name="hello_world">Hello World</string>
+    <string name="error_message">Data Tidak Ditemukan</string>
+    <string name="favorite">Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite_button">favorit</string>
+</resources>
